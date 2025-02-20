@@ -3,7 +3,7 @@
 </p>
     
 <p align="center">
-    Matching with baby gurl^^^^ * [teset](https://github.com/matiassingers/awesome-readme)
+    Matching with baby gurl^^^^
 </p>
 
 <!--
