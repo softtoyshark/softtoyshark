@@ -3,7 +3,7 @@
 </p>
     
 <p align="center">
-    Matching with baby gurl^^^^ [testtt](https://github.com/Paggylyn)
+    Matching with baby gurl^^^^
 </p>
 
 <!--
