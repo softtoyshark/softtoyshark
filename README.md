@@ -10,6 +10,10 @@
      m/w <a href="https://github.com/Paggylyn"> beloveddd ^^</a>
 </p>
 
+<p align="center">
+    <img width="300" src=https://files.catbox.moe/k0fn7y.png
+</p>
+
 <!--
 **softtoyshark/softtoyshark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
