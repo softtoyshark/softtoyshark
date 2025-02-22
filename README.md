@@ -7,7 +7,7 @@
 </p>
     
 <p align="center">
-     m/w <a href="https://github.com/Paggylyn"> beloveddd ^^</a>
+     m/w <a href="https://github.com/Paggylyn"> beloveddd ! </a>
 </p>
 
 <p align="center">
