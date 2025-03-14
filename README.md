@@ -1,9 +1,5 @@
 <p align="center">
-    <img width="500" src=[https://files.catbox.moe/ow0xw2.webp]
-</p>
-    
-<p align="center">
-     m/w <a href="https://github.com/Paggylyn"> beloveddd ! </a>
+     art by <a href="https://github.com/Paggylyn"> this foo <img width="80" height="60" src=https://files.catbox.moe/ow0xw2.webp </a>
 </p>
 
 
