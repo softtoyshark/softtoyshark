@@ -1,5 +1,6 @@
 <p align="center">
-     pfp by <a href="https://github.com/Paggylyn"> this foo <img width="80" height="60" src=https://files.catbox.moe/ow0xw2.webp> follow </a>
+     pfp by <a href="https://github.com/Paggylyn"> this foo <img width="80" height="60" src=https://files.catbox.moe/ow0xw2.webp </a>
+          (follow him or else/silly)
 </p>
 
 
