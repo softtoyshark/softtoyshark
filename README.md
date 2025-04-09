@@ -1,7 +1,7 @@
 <p align="center">
-     <img </a>
+     <img src="https://files.catbox.moe/1hb6zt.jpg" alt="Cool Logo" width="300"/>
 </p>
-
+wip
 
 <!--
 **softtoyshark/softtoyshark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
