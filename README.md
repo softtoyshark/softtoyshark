@@ -1,5 +1,5 @@
 <p align="center">
-     <img src="https://files.catbox.moe/1hb6zt.jpg" alt="yippe image" width="300"/>
+     <img src="https://files.catbox.moe/92daub.png" alt="yippe image" width="300"/>
 </p>
 wip
 
