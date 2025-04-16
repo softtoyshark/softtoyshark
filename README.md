@@ -1,7 +1,11 @@
+wip
 <p align="center">
      <img src="https://files.catbox.moe/92daub.png" alt="yippe image" width="300"/>
 </p>
-wip
+
+<p align="center">
+  <img src="https://files.catbox.moe/zly816.gif" alt="funny gif" width="20">
+</p>
 
 <p align="center">
   <a href="https://rentry.co/cet_byi"><code>byi</code></a>
