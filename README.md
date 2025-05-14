@@ -1,4 +1,4 @@
-wip
+guess my favorite show guys
 <p align="center">
      <img src="https://files.catbox.moe/92daub.png" alt="yippe image" width="300"/>
 </p>
