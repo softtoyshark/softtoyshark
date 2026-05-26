@@ -1,5 +1,5 @@
 <p align="center">
-  i'll get to this...soon........
+  i'll get to this soon trust
 </p>
 
 <p align="center">
