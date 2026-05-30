@@ -17,15 +17,22 @@ wip
 
 
 <p align="center">
-    $\color{#1A68A1FF}{17~~~~~~y/o~}$
+    $\color{#1A68A1FF}{17~~~~~~y/o~~~~~~~~aspiring~~~pilot~}$
 </p>
 
 <p align="center">
 $\color{#1452A1FF}{most~~~often~~~afk~~,~~~w2i~~~welcome~~♡}$
 </p>
 
+<p align="center">
+$\color{#322FA1FF}{la}$
+</p>
+
  　　　　　　　　　　 　　　　　　　　　　　　　　　　　　　　　　　　　[新book](https://cetrus.atabook.org)　[rentry](https://rentry.co/stuffabtcetrus)<sub>⤷[matching rentry](https://rentry.co/cpeeps)</sub>
 
+<p align="left">
+$\color{#6351A1FF}{~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ᯓ ✈︎}$
+</p>
 <p align="center">
   <img src="https://files.catbox.moe/r04unb.png" width=400>
 </p>
