@@ -10,6 +10,5 @@
   <img src="https://files.catbox.moe/v9aa3y.gif" />
 </p>
 
-<img width="450" height="40" alt="Image" src="https://files.catbox.moe/by79om.png" />
   
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=softtoyshark&color=lightgrey&style=flat-square&abbreviated=true&label=ִִֶֶָָ࿐> </p>
