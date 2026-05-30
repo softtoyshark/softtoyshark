@@ -28,7 +28,7 @@ $\color{#1452A1FF}{most~~~often~~~afk~~,~~~w2i~~~welcome~~♡}$
 $\color{#322FA1FF}{la}$
 </p>
 
- 　　　　　　　　　　 　　　　　　　　　　　　　　　　　　　　　　　　　[新book](https://cetrus.atabook.org)　[rentry](https://rentry.co/stuffabtcetrus)<sub>⤷[matching rentry](https://rentry.co/cpeeps)</sub>
+ 　　　　　　　　　　 　　　　　　　　　　　　　　　　　　　[rentry](https://rentry.co/stuffabtcetrus)<sub>⤷[matching rentry](https://rentry.co/cpeeps)</sub>  　[新book](https://cetrus.atabook.org)　<sup>[matching straw](https://cetruspv.straw.page/)⤵</sup>[straw](_)
 
 <p align="left">
 $\color{#6351A1FF}{~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ᯓ ✈︎}$
