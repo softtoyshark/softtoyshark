@@ -1,4 +1,3 @@
-wip
 <p align="center">  <img src="https://readme-typing-svg.demolab.com/?font=Montserrat&center=true&width=2160&height=50&size=35&color=0A8FA1FF&duration=2500&pause=1000&&multiline=true&repeat=false&lines=best+viewed+in+desktop"> </p>
 
 <p align="center">
@@ -25,7 +24,7 @@ $\color{#1452A1FF}{most~~~often~~~afk~~,~~~w2i~~~welcome~~♡}$
 </p>
 
 <p align="center">
-$\color{#322FA1FF}{proship~~~dni~.~~~~~~i~~~block~~~freely~}$
+$\color{#322FA1FF}{proship~~~dni~~~.~~~~i~~~block~~~freely~}$
 </p>
 
  　　　　　　　　　　 　　　　　　　　　　　　　　　　　　　[rentry](https://rentry.co/stuffabtcetrus)<sub>⤷[matching rentry](https://rentry.co/cpeeps)</sub>  　[新book](https://cetrus.atabook.org)　<sup>[matching straw](https://cetruspv.straw.page/)⤵</sup>[straw](_)
