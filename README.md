@@ -30,7 +30,7 @@ $\color{#322FA1FF}{proship~~~dni~~~.~~~~i~~~block~~~freely~}$
  　　　　　　　　　　 　　　　　　　　　　　　　　　　　　　[rentry](https://rentry.co/stuffabtcetrus)<sub>⤷[matching rentry](https://rentry.co/cpeeps)</sub>  　[新book](https://cetrus.atabook.org)　<sup>[matching straw](https://cetruspv.straw.page/)⤵</sup>[straw](_)
 
 <p align="left">
-$\color{#6351A1FF}{~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ᯓ ✈︎}$
+$\color{#6351A1FF}{~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ᯓ ✈︎}$
 </p>
 <p align="center">
   <img src="https://files.catbox.moe/r04unb.png" width=400>
