@@ -19,15 +19,15 @@
 </p>
 
 <p align="center">
-    $\color{#1A68A1FF}{17~~~~~~y/o~~~~~~~~aspiring~~~pilot~}$
+$\color{#1A68A1FF}{cetrus~~~♡~~~cet~}$
 </p>
 
 <p align="center">
-$\color{#1452A1FF}{most~~~often~~~afk~~,~~~w2i~~~welcome~~♡}$
+    $\color{#1452A1FF}{17~~~~~~y/o~~~~~~~~aspiring~~~pilot~}$
 </p>
 
 <p align="center">
-$\color{#322FA1FF}{proship~~~dni~~~.~~~~i~~~block~~~freely~}$
+$\color{#322FA1FF}{most~~~often~~~afk~~,~~~w2i~~~welcome~}$
 </p>
 
  　　　　　　　　　　 　　　　　　　　　　　　　　　　　　　[rentry](https://rentry.co/stuffabtcetrus)<sub>⤷[matching rentry](https://rentry.co/cpeeps)</sub>  　[新book](https://cetrus.atabook.org)　<sup>[matching straw](https://cetruspv.straw.page)⤵</sup>[strawpage](https://cetrus.straw.page)
