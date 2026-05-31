@@ -1,3 +1,5 @@
+<!-- Sorry gang this code is very messy, i made it from scratch and coding isnt really my thing </3 u can use as a template if u want to idm :) thanks for digging this up -->
+
 <p align="center">  <img src="https://readme-typing-svg.demolab.com/?font=Montserrat&center=true&width=2160&height=50&size=30&color=0A8FA1FF&duration=2500&pause=1000&&multiline=true&repeat=false&lines=best+viewed+in+desktop"> </p>
 
 <p align="center">
@@ -13,7 +15,6 @@
 <p align="center">
   <img src="https://files.catbox.moe/1ckoyl.png" width=400>
 </p>
-
 
 <p align="center">
     $\color{#1A68A1FF}{17~~~~~~y/o~~~~~~~~aspiring~~~pilot~}$
