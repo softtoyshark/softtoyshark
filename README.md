@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-$\color{#1A68A1FF}{cetrus~~~♡~~~cet~}$
+$\color{#1A68A1FF}{cetrus~~~or~~~cet~}$
 </p>
 
 <p align="center">
