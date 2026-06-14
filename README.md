@@ -1,4 +1,4 @@
-<!-- Sorry gang this code is very messy, i made it from scratch and coding isnt really my thing </3 u can use as a template if u want to idm :) thanks for digging this up -->
+<!-- sorry gang this code is very messy, i made it from scratch and coding isnt really my thing .. you can use this as a template if you want to idm :) thanks for digging this up -->
 
 <p align="center">
 <sub>$\color{#0A8FA1FF}{best~~viewed~~on~~desktop}$</sub> 
