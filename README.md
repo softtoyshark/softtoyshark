@@ -32,6 +32,15 @@ $\color{#322FA1FF}{most~~~often~~~offtab~~,~~~c+h~~~freely~}$
 
  　　　　　　　　　　 　　　　　　　　　　　　　　　　　　　[rentry](https://rentry.co/stuffabtcetrus)<sub>⤷[matching rentry](https://rentry.co/cpeeps)</sub>  　[新book](https://cetrus.atabook.org)　<sup>[matching straw](https://cetruspv.straw.page)⤵</sup>[strawpage](https://cetrus.straw.page)
 
+<div align=center>
+
+| <code> .ೃ࿔*  ಄･࿐ </code> <br> |
+| :---: |
+| <details> <summary> </summary> <br> <details><summary>dni</summary><p> wip </p></details>  <br> <br> <details><summary>int</summary><p> wip </p></details> <br> <br> <details><summary>fandoms</summary><p> wip </p></details> <br> </details> |
+<br>
+
+</div>
+
 <p align="left">
 $\color{#6351A1FF}{~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ᯓ ✈︎}$
 </p>
