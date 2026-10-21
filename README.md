@@ -34,9 +34,21 @@ $\color{#322FA1FF}{most~~~often~~~offtab~~,~~~c+h~~~freely~}$
 
 <div align=center>
 
-| <code> .ೃ࿔*  ಄･࿐ </code> <br> |
-| :---: |
-| <details> <summary> </summary> <br> <details><summary>dni</summary><p> wip </p></details>  <br> <br> <details><summary>int</summary><p> wip </p></details> <br> <br> <details><summary>fandoms</summary><p> wip </p></details> <br> </details> |
+<details> <summary> <code> .ೃ࿔* dni ･ </code> </summary> <br> wip  <br>  <br> wip  <br> <br> wip  <br> <br> wip  <br> <br>
+<br>
+
+</div>
+
+<div align=center>
+
+<details> <summary> <code> .಄ int ࿐ </code> </summary> <br> wip  <br>  <br> wip  <br> <br> wip  <br> <br> wip  <br> <br>
+<br>
+
+</div>
+
+<div align=center>
+
+<details> <summary> <code>  ོ☼𓂃 fandoms ･ </code> </summary> <br> wip  <br>  <br> wip  <br> <br> wip  <br> <br> wip  <br> <br>
 <br>
 
 </div>
