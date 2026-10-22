@@ -30,11 +30,11 @@ $\color{#1A68A1FF}{cetrus~~~or~~~cet~}$
 $\color{#322FA1FF}{most~~~often~~~offtab~~,~~~c+h~~~freely~}$
 </p>
 
- 　　　　　　　　　　 　　　　　　　　　　　　　　　　　　　[rentry](https://rentry.co/stuffabtcetrus)<sub>⤷[matching rentry](https://rentry.co/cpeeps)</sub>  　[新book](https://cetrus.atabook.org)　<sup>[matching straw](https://cetruspv.straw.page)⤵</sup>[strawpage](https://cetrus.straw.page)
+ 　　　　　　　　[rentry](https://rentry.co/stuffabtcetrus)<sub>⤷[matching rentry](https://rentry.co/cpeeps)</sub>  　[新book](https://cetrus.atabook.org)　<sup>[matching straw](https://cetruspv.straw.page)⤵</sup>[strawpage](https://cetrus.straw.page)
 
 <div align=center>
 
-<details> <summary> <code> .ೃ࿔* dni ･ </code> </summary> <br> wip  <br>  <br> wip  <br> <br> wip  <br> <br> wip  <br> <br>
+<details> <summary> <code> .ೃ࿔* dni ･ </code> </summary> <br> the usual suspects  <br>  <br>  -14,  20+ (unless friends)  <br> <br> w <br> <br> i block freely!  <br> <br>
 <br>
 
 </div>
@@ -59,3 +59,35 @@ $\color{#6351A1FF}{~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 <p align="center">
   <img src="https://files.catbox.moe/r04unb.png" width=400>
 </p>
+
+ <br>
+              <p align="center">
+              <table style="border: 2px solid #8A78B6; border-radius: 8px;">
+                <tr>
+                  <td>
+                    <p align="center">
+                    $\color{#1E2A44}{\texttt{ ᯓ ✈︎ }}$
+                    </p>
+                    <br>
+                          <p align="center">
+            <details>
+              <summary>$\color{#1A68A1FF}{\texttt{dni}}$ </summary>
+             $\color{#8A78B6}{\texttt{  ((text)) }}$
+            </details>
+            <details>
+              <summary>$\color{#1452A1FF}{\texttt{int}}$ </summary>
+              $\color{#CBECB6}{\texttt{ ((text)) }}$
+            </details>
+            <details>
+              <summary>$\color{#322FA1FF}{\texttt{fandoms}}$</summary>
+            $\color{#8A78B6}{\texttt{text}}$
+            </details>
+          </p>
+                   </p>
+                  </td>
+                </tr>
+              </table>
+</p>
+  <br>
+
+
