@@ -48,28 +48,28 @@ $\color{#322FA1FF}{most~~~often~~~offtab~~,~~~c+h~~~freely~}$
 
 <summary>$\color{#1A68A1FF}{\texttt{dni}}$</summary>
 
-$\color{#322FA1FF}{\texttt{ -14 , 20+ (unless friend) }}$
+$\color{#1A68A1FF}{\texttt{ ໑ -14 , 20+ (unless friend) }}$
 
-$\color{#322FA1FF}{\texttt{ proship / darkship }}$
+$\color{#1A68A1FF}{\texttt{proship / darkship }}$
 
-$\color{#322FA1FF}{\texttt{ maga / ice supporters }}$
+$\color{#1A68A1FF}{\texttt{ ໑ maga / ice supporters }}$
 
-$\color{#322FA1FF}{\texttt{ i block freely :P }}$
+$\color{#1A68A1FF}{\texttt{ i block freely :P }}$
 </details>
 <br>
 <details>
 <summary>$\color{#1452A1FF}{\texttt{int}}$ </summary>
 
-  $\color{#1452A1FF}{\texttt{ pretty much anyone!! }}$
+  $\color{#1452A1FF}{\texttt{ ໑ pretty much anyone!! }}$
 
-  $\color{#1452A1FF}{\texttt{ if we share interests }}$
+  $\color{#1452A1FF}{\texttt{if we share interests }}$
 
-  $\color{#1452A1FF}{\texttt{ (c+h anytime) }}$
+  $\color{#1452A1FF}{\texttt{ ໑ c+h anytime }}$
 </details>
 <br>
 <details>
 <summary>$\color{#322FA1FF}{\texttt{interests}}$</summary>
-$\color{#1A68A1FF}{\texttt{text}}$
+$\color{#322FA1FF}{\texttt{text}}$
 </details>
                       <br>
                     </p>
