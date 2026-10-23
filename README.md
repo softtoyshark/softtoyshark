@@ -61,8 +61,10 @@ $\color{#6351A1FF}{~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 </p>
 
  <br>
- 
-             <p align="center">
+
+  <p align="center">
+   <br>
+              <p align="center">
               <table style="border: 2px solid #8A78B6; border-radius: 8px;">
                 <tr>
                   <td>
@@ -70,25 +72,26 @@ $\color{#6351A1FF}{~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
                     $\color{#1E2A44}{\texttt{ ᯓ ✈︎ }}$
                     </p>
                     <br>
-                          <p align="center">
-            <details>
+                    <p align="center">
+                     <details>
               <summary>$\color{#1A68A1FF}{\texttt{dni}}$ </summary>
              $\color{#8A78B6}{\texttt{  ((text)) }}$
             </details>
-            <details>
+                      <br>
+                       <details>
               <summary>$\color{#1452A1FF}{\texttt{int}}$ </summary>
               $\color{#CBECB6}{\texttt{ ((text)) }}$
             </details>
-            <details>
+                      <br>
+                     <details>
               <summary>$\color{#322FA1FF}{\texttt{fandoms}}$</summary>
             $\color{#8A78B6}{\texttt{text}}$
             </details>
-          </p>
-                   </p>
+                      <br>
+                    </p>
                   </td>
                 </tr>
               </table>
-    </p>
+</p>
   <br>
-
-
+</p>
