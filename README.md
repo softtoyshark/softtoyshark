@@ -32,40 +32,10 @@ $\color{#322FA1FF}{most~~~often~~~offtab~~,~~~c+h~~~freely~}$
 
  　　　　　　　　[rentry](https://rentry.co/stuffabtcetrus)<sub>⤷[matching rentry](https://rentry.co/cpeeps)</sub>  　[新book](https://cetrus.atabook.org)　<sup>[matching straw](https://cetruspv.straw.page)⤵</sup>[strawpage](https://cetrus.straw.page)
 
-<div align=center>
 
-<details> <summary> <code> .ೃ࿔* dni ･ </code> </summary> <br> the usual suspects  <br>  <br>  -14,  20+ (unless friends)  <br> <br> w <br> <br> i block freely!  <br> <br>
-<br>
-
-</div>
-
-<div align=center>
-
-<details> <summary> <code> .಄ int ࿐ </code> </summary> <br> wip  <br>  <br> wip  <br> <br> wip  <br> <br> wip  <br> <br>
-<br>
-
-</div>
-
-<div align=center>
-
-<details> <summary> <code>  ོ☼𓂃 fandoms ･ </code> </summary> <br> wip  <br>  <br> wip  <br> <br> wip  <br> <br> wip  <br> <br>
-<br>
-
-</div>
-
-<p align="left">
-$\color{#6351A1FF}{~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ᯓ ✈︎}$
-</p>
-<p align="center">
-  <img src="https://files.catbox.moe/r04unb.png" width=400>
-</p>
-
- <br>
-
-  <p align="center">
    <br>
               <p align="center">
-              <table style="border: 2px solid #8A78B6; border-radius: 8px;">
+              <table style="border: 2px solid #8A78B6; border-radius: 8px;" align="center">
                 <tr>
                   <td>
                     <p align="center">
@@ -95,3 +65,10 @@ $\color{#6351A1FF}{~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 </p>
   <br>
 </p>
+
+<p align="center">
+  <img src="https://files.catbox.moe/r04unb.png" width=400>
+</p>
+
+ <br>
+
