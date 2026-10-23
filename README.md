@@ -1,4 +1,4 @@
-<!-- sorry gang this code is very messy, i made it from scratch and coding isnt really my thing .. you can use this as a template if you want to idm :) thanks for digging this up -->
+<!-- sorry this code is very messy, i made it from scratch and coding isnt really my thing .. you can use this as a template if you want to idm :) thanks for digging this up -->
 
 <p align="center">
 <sub>$\color{#0A8FA1FF}{best~~viewed~~on~~desktop}$</sub> 
@@ -43,20 +43,34 @@ $\color{#322FA1FF}{most~~~often~~~offtab~~,~~~c+h~~~freely~}$
                     </p>
                     <br>
                     <p align="center">
-                     <details>
-              <summary>$\color{#1A68A1FF}{\texttt{dni}}$ </summary>
-             $\color{#8A78B6}{\texttt{  ((text)) }}$
-            </details>
-                      <br>
-                       <details>
-              <summary>$\color{#1452A1FF}{\texttt{int}}$ </summary>
-              $\color{#CBECB6}{\texttt{ ((text)) }}$
-            </details>
-                      <br>
-                     <details>
-              <summary>$\color{#322FA1FF}{\texttt{fandoms}}$</summary>
-            $\color{#8A78B6}{\texttt{text}}$
-            </details>
+                   <details>
+             
+
+<summary>$\color{#1A68A1FF}{\texttt{dni}}$</summary>
+
+$\color{#322FA1FF}{\texttt{ -14 , 20+ (unless friend) }}$
+
+$\color{#322FA1FF}{\texttt{ proship / darkship }}$
+
+$\color{#322FA1FF}{\texttt{ maga / ice supporters }}$
+
+$\color{#322FA1FF}{\texttt{ i block freely :P }}$
+</details>
+<br>
+<details>
+<summary>$\color{#1452A1FF}{\texttt{int}}$ </summary>
+
+  $\color{#1452A1FF}{\texttt{ pretty much anyone!! }}$
+
+  $\color{#1452A1FF}{\texttt{ if we share interests }}$
+
+  $\color{#1452A1FF}{\texttt{ (c+h anytime) }}$
+</details>
+<br>
+<details>
+<summary>$\color{#322FA1FF}{\texttt{fandoms}}$</summary>
+$\color{#1A68A1FF}{\texttt{text}}$
+</details>
                       <br>
                     </p>
                   </td>
