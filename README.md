@@ -68,7 +68,7 @@ $\color{#322FA1FF}{\texttt{ i block freely :P }}$
 </details>
 <br>
 <details>
-<summary>$\color{#322FA1FF}{\texttt{fandoms}}$</summary>
+<summary>$\color{#322FA1FF}{\texttt{interests}}$</summary>
 $\color{#1A68A1FF}{\texttt{text}}$
 </details>
                       <br>
