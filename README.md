@@ -30,7 +30,7 @@ $\color{#1A68A1FF}{cetrus~~~or~~~cet~}$
 $\color{#322FA1FF}{most~~~often~~~offtab~~,~~~c+h~~~freely~}$
 </p>
 
- 　　　　　　　　　　　　　　[rentry](https://rentry.co/stuffabtcetrus)<sub>⤷[matching rentry](https://rentry.co/cpeeps)</sub>  　[新book](https://cetrus.atabook.org)　<sup>[matching straw](https://cetruspv.straw.page)⤵</sup>[strawpage](https://cetrus.straw.page)
+ 　　　　　　　　　　　　　　　　　　　　[rentry](https://rentry.co/stuffabtcetrus)<sub>⤷[matching rentry](https://rentry.co/cpeeps)</sub>  　[新book](https://cetrus.atabook.org)　<sup>[matching straw](https://cetruspv.straw.page)⤵</sup>[strawpage](https://cetrus.straw.page)
 
 
    <br>
