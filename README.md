@@ -72,9 +72,9 @@ $\color{#1A68A1FF}{\texttt{ ࿓ i block freely :P }}$
   
   $\color{#322FA1FF}{\texttt{ ໑ aviation!}}$
   
-  $\color{#322FA1FF}{\texttt{ ࿓ text}}$
+  $\color{#322FA1FF}{\texttt{ ࿓ art}}$
   
-  $\color{#322FA1FF}{\texttt{ ໑ text}}$
+  $\color{#322FA1FF}{\texttt{ ໑ too many fandoms..}}$
 </details>
                       <br>
                     </p>
