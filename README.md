@@ -72,7 +72,7 @@ $\color{#1A68A1FF}{\texttt{ ࿓ i block freely :P }}$
 <details>
 <summary>$\color{#322FA1FF}{\texttt{interests}}$</summary>
   
-  $\color{#322FA1FF}{\texttt{ ໑ aviation!}}$
+  $\color{#322FA1FF}{\texttt{ ໑ civilian aviation!}}$
   
   $\color{#322FA1FF}{\texttt{ ࿓ art}}$
   
