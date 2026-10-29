@@ -71,14 +71,17 @@ $\color{#1A68A1FF}{\texttt{ ࿓ i block freely :P }}$
 <br>
 <details>
 <summary>$\color{#322FA1FF}{\texttt{interests}}$</summary>
-  
-  $\color{#322FA1FF}{\texttt{ ໑ civilian aviation!}}$
-  
-  $\color{#322FA1FF}{\texttt{ ࿓ art}}$
-  
-  $\color{#322FA1FF}{\texttt{ ໑ reading}}$
 
-  $\color{#322FA1FF}{\texttt{ ࿓ too many fandoms..}}$
+  $\color{#322FA1FF}{\texttt{ ໑ i have many, but my most current ones}}$
+
+  $\color{#322FA1FF}{\texttt{ would be civilian aviation, art, }}$
+  
+  $\color{#322FA1FF}{\texttt{ batfam (esp duke thomas), }}$
+
+  $\color{#322FA1FF}{\texttt{ project hail mary, moomins,}}$
+
+  +[more](https://rentry.co/cet_interests)
+  
 </details>
                       <br>
                     </p>
