@@ -46,27 +46,9 @@ $\color{#322FA1FF}{most~~~often~~~offtab~~,~~~c+h~~~freely~}$
                    <details>
              
 
-<summary>$\color{#1A68A1FF}{\texttt{dni}}$</summary>
+<summary>$\color{#1452A1FF}{\texttt{byi}}$ </summary>
 
-$\color{#1A68A1FF}{\texttt{ ໑ -14 , 20+ iwec (unless friend) }}$
-
-$\color{#1A68A1FF}{\texttt{ ࿓ proship / darkship }}$
-
-$\color{#1A68A1FF}{\texttt{ ໑ maga / ice supporters }}$
-
-$\color{#1A68A1FF}{\texttt{ ࿓ i block freely :P }}$
-</details>
-<br>
-<details>
-<summary>$\color{#1452A1FF}{\texttt{int}}$ </summary>
-
-  $\color{#1452A1FF}{\texttt{ ໑ pretty much anyone!! }}$
-
-  $\color{#1452A1FF}{\texttt{ ࿓ if we share interests }}$
-
-  $\color{#1452A1FF}{\texttt{ ໑ if we have matching skins :) }}$
-
-  $\color{#1452A1FF}{\texttt{ ࿓ c+h anytime }}$
+  $\color{#1452A1FF}{\texttt{ ໑ under construction! }}$
 </details>
 <br>
 <details>
