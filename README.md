@@ -48,49 +48,48 @@ $\color{#322FA1FF}{most~~~often~~~offtab~~,~~~c+h~~~freely~}$
 
 <summary>$\color{#1452A1FF}{\texttt{byi}}$ </summary>
 
-  $\color{#1452A1FF}{\texttt{ ໑ under construction! }}$
+  $\color{#1A68A1FF}{\texttt{ ໑ under construction! }}$
 </details>
 <br>
 <details>
-<summary>$\color{#322FA1FF}{\texttt{interests}}$</summary>
+<summary>$\color{#1452A1FF}{\texttt{interests}}$</summary>
 
-  $\color{#322FA1FF}{\texttt{ ໑ wip, in no particular order}}$
+  $\color{#1452A1FF}{\texttt{ ໑ wip, in no particular order}}$
   
-  $\color{#322FA1FF}{\texttt{ ໑ books: dc/batman comics (im a very new fan pls have mercy..), }}$
-  $\color{#322FA1FF}{\texttt{ gregor the overlander series, moon girl + devil dino}}$
-  $\color{#322FA1FF}{\texttt{ howls moving castle, good omens, project hail mary,}}$
-  $\color{#322FA1FF}{\texttt{ percy jackson, phantom of the opera, garfield + more! }}$
+  $\color{#1452A1FF}{\texttt{ ໑ books: dc/batman comics (im a very new fan pls have mercy..), }}$
+  $\color{#1452A1FF}{\texttt{ gregor the overlander series, moon girl + devil dino,}}$
+  $\color{#1452A1FF}{\texttt{ howls moving castle, good omens, project hail mary,}}$
+  $\color{#1452A1FF}{\texttt{ percy jackson, phantom of the opera, garfield + more! }}$
 
-  $\color{#322FA1FF}{\texttt{ ໑ shows: the owl house, loki irl,}}$
-  $\color{#322FA1FF}{\texttt{our flag means death, good omens (less so after s3..),}}$
-  $\color{#322FA1FF}{\texttt{what we do in the shadows (2019), gravity falls, wander over yonder,}}$
-  $\color{#322FA1FF}{\texttt{moomins (1990), dont hug me im scared, knights of guinevere,}}$
-  $\color{#322FA1FF}{\texttt{chikin nuggit, amphibia,}}$
-  $\color{#322FA1FF}{\texttt{moral oral, metal family + more!}}$
+  $\color{#1452A1FF}{\texttt{ ໑ shows: the owl house, loki irl,}}$
+  $\color{#1452A1FF}{\texttt{our flag means death, good omens (fck neil gaiman),}}$
+  $\color{#1452A1FF}{\texttt{what we do in the shadows (2019), gravity falls, wander over yonder,}}$
+  $\color{#1452A1FF}{\texttt{moomins (1990), dont hug me im scared, knights of guinevere,}}$
+  $\color{#1452A1FF}{\texttt{chikin nuggit, amphibia,}}$
+  $\color{#1452A1FF}{\texttt{moral oral, metal family + more!}}$
 
-  $\color{#322FA1FF}{\texttt{ ໑ movies: reanimator, little shop of horrors,}}$
-  $\color{#322FA1FF}{\texttt{flight of the navigator (1986 fans PLZ INT OMG),}}$
-  $\color{#322FA1FF}{\texttt{how to train your dragon, ponyo, napoleon dynamite}}$
-  $\color{#322FA1FF}{\texttt{project hail mary, ratatouille, + more!}}$
+  $\color{#1452A1FF}{\texttt{ ໑ movies: reanimator, little shop of horrors,}}$
+  $\color{#1452A1FF}{\texttt{flight of the navigator (1986, fans PLZ INT OMG),}}$
+  $\color{#1452A1FF}{\texttt{how to train your dragon, ponyo, napoleon dynamite,}}$
+  $\color{#1452A1FF}{\texttt{project hail mary, ratatouille, + more!}}$
   
-  $\color{#322FA1FF}{\texttt{ ໑ music: waitress, air traffic controller,}}$
-  $\color{#322FA1FF}{\texttt{bear ghost, tub ring, will wood, + a lot more!}}$
+  $\color{#1452A1FF}{\texttt{ ໑ music: waitress, air traffic controller,}}$
+  $\color{#1452A1FF}{\texttt{bear ghost, tub ring, will wood, + a lot more!}}$
 
-  $\color{#322FA1FF}{\texttt{ ໑ music..als: ride the cyclone, little shop of horrors}}$
-  $\color{#322FA1FF}{\texttt{ nerdy prudes must die, phantom of the opera,}}$
-  $\color{#322FA1FF}{\texttt{something rotten, + more!}}$
+  $\color{#1452A1FF}{\texttt{ ໑ music..als: ride the cyclone, little shop of horrors,}}$
+  $\color{#1452A1FF}{\texttt{ nerdy prudes must die, phantom of the opera,}}$
+  $\color{#1452A1FF}{\texttt{something rotten, + more!}}$
 
-  $\color{#322FA1FF}{\texttt{ ໑ games: fnaf, super mario bros 3, ponytown..}}$
-  $\color{#322FA1FF}{\texttt{yeah thats it}}$
+  $\color{#1452A1FF}{\texttt{ ໑ games: fnaf, super mario bros 3, ponytown..}}$
+  $\color{#1452A1FF}{\texttt{yeah thats it}}$
 
-  $\color{#322FA1FF}{\texttt{ ໑ misc: civilian aviation (obv), trad. art,}}$
-  $\color{#322FA1FF}{\texttt{sharks, my ocs, + my frens :3}}$
+  $\color{#1452A1FF}{\texttt{ ໑ misc: civilian aviation (obv), trad. art,}}$
+  $\color{#1452A1FF}{\texttt{sharks, my ocs, + my frens :3}}$
 </details>
 <br>
 <details>
   <summary>$\color{#322FA1FF}{\texttt{favs!}}$</summary>
   $\color{#322FA1FF}{\texttt{coming soon}}$
-  
                       <br>
                     </p>
                   </td>
