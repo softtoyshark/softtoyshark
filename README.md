@@ -54,13 +54,13 @@ $\color{#322FA1FF}{most~~~often~~~offtab~~,~~~c+h~~~freely~}$
 <details>
 <summary>$\color{#322FA1FF}{\texttt{interests}}$</summary>
 
-  $\color{#322FA1FF}{\texttt{ ໑ i have many, but my most current ones}}$
+  $\color{#322FA1FF}{\texttt{ ໑ also under construction yikes}}$
 
-  $\color{#322FA1FF}{\texttt{ would be civilian aviation, art, }}$
+  $\color{#322FA1FF}{\texttt{ ໑ misc: }}$
   
-  $\color{#322FA1FF}{\texttt{ batfam (esp duke thomas), }}$
+  $\color{#322FA1FF}{\texttt{ ໑ books: }}$
 
-  $\color{#322FA1FF}{\texttt{ project hail mary, moomins,}}$
+  $\color{#322FA1FF}{\texttt{ ໑ shows/movies: }}$
 
   +[more](https://rentry.co/cet_interests)
   
