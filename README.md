@@ -58,9 +58,11 @@ $\color{#322FA1FF}{most~~~often~~~offtab~~,~~~c+h~~~freely~}$
 
   $\color{#322FA1FF}{\texttt{ ໑ misc: }}$
   
-  $\color{#322FA1FF}{\texttt{ ໑ books: }}$
+  $\color{#322FA1FF}{\texttt{ ໑ books: dc/batman comics (im a very new fan pls have mercy..), gregor the overlander series, howls moving castle, good omens, project hail mary, percy jackson }}$
 
-  $\color{#322FA1FF}{\texttt{ ໑ shows/movies: }}$
+  $\color{#322FA1FF}{\texttt{ ໑ shows/movies:  }}$
+  
+  $\color{#322FA1FF}{\texttt{ ໑ music: }}$
 
   +[more](https://rentry.co/cet_interests)
   
