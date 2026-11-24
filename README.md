@@ -57,9 +57,9 @@ $\color{#322FA1FF}{most~~~often~~~offtab~~,~~~c+h~~~freely~}$
   $\color{#1452A1FF}{\texttt{ ໑ wip, in no particular order}}$
   
   $\color{#1452A1FF}{\texttt{ ໑ books: dc/batman comics (im a very new fan pls have mercy..), }}$
-  $\color{#1452A1FF}{\texttt{ gregor the overlander series, garfiel,}}$
+  $\color{#1452A1FF}{\texttt{ gregor the overlander series, garfield,}}$
   $\color{#1452A1FF}{\texttt{ howls moving castle, good omens (ex fan), project hail mary,}}$
-  $\color{#1452A1FF}{\texttt{ percy jackson, phantom of the opera, + more! }}$
+  $\color{#1452A1FF}{\texttt{ percy jackson, phantom of the opera, raybearer + more! }}$
 
   $\color{#1452A1FF}{\texttt{ ໑ shows: the owl house, loki irl,}}$
   $\color{#1452A1FF}{\texttt{our flag means death, good omens (ex fan),}}$
